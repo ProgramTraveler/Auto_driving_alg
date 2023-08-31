@@ -1,0 +1,12 @@
+Symlinking /home/help/pro/Auto_driving/devel/./local_setup.bash
+Symlinking /home/help/pro/Auto_driving/devel/./env.sh
+Symlinking /home/help/pro/Auto_driving/devel/./cmake.lock
+Symlinking /home/help/pro/Auto_driving/devel/./setup.sh
+Symlinking /home/help/pro/Auto_driving/devel/./setup.zsh
+Symlinking /home/help/pro/Auto_driving/devel/./local_setup.zsh
+Symlinking /home/help/pro/Auto_driving/devel/./local_setup.sh
+Symlinking /home/help/pro/Auto_driving/devel/./_setup_util.py
+Symlinking /home/help/pro/Auto_driving/devel/./setup.bash
+Symlinking /home/help/pro/Auto_driving/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/help/pro/Auto_driving/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/help/pro/Auto_driving/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

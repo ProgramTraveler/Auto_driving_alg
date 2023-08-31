@@ -1,0 +1,6 @@
+devel_space: /home/help/pro/Auto_driving/devel
+install: false
+install_space: /home/help/pro/Auto_driving/install
+profile: default
+source_space: /home/help/pro/Auto_driving/src
+workspace: /home/help/pro/Auto_driving

@@ -1,0 +1,1 @@
+/home/help/pro/Auto_driving/devel/.private/planning/lib/pkgconfig/planning.pc
