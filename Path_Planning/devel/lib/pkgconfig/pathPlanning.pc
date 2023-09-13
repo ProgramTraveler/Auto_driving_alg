@@ -1,0 +1,8 @@
+prefix=/home/help/pro/Path_Planning/devel
+
+Name: pathPlanning
+Description: Description of pathPlanning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs
