@@ -1,2 +1,0 @@
-Astar
--DCATKIN_DEVEL_PREFIX=/home/help/pro/Path_Planning/devel -DCMAKE_INSTALL_PREFIX=/home/help/pro/Path_Planning/install -G Unix Makefiles
